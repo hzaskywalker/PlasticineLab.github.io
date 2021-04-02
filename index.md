@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Alt Text](https://github.com/hzaskywalker/hzaskywalker.github.io/blob/main/Writer3D-v1.gif)
+![Alt Text](https://github.com/hzaskywalker/hzaskywalker.github.io/blob/main/Writer3D-v1.gif?raw=true)
 
 You can use the [editor on GitHub](https://github.com/hzaskywalker/hzaskywalker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
