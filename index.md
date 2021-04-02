@@ -1,6 +1,6 @@
 ## PlasticineLab
 
-![Alt Text](https://hzaskywalker.github.io/Writer3D-v1.gif)
+![Alt Text](https://hzaskywalker.github.io/PlasticineLab.github.io/Writer3D-v1.gif)
 
 
 
