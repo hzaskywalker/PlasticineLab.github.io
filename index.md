@@ -1,10 +1,13 @@
 <center> <h1>PlasticineLab: A Soft-Body Manipulation Benchmark with Differential Physics</h1></center>
 
 <center> <h3>
-  <a href="https://sites.google.com/view/zhiao-huang">Zhiao Huang</a> <a href="https://yuanming.taichi.graphics/">Yuanming Hu</a> <a href="https://people.csail.mit.edu/taodu/">Tao Du</a><h3>
-</center>
+  <a href="https://sites.google.com/view/zhiao-huang">Zhiao Huang</a> <a href="https://yuanming.taichi.graphics/">Yuanming Hu</a> <a href="https://people.csail.mit.edu/taodu/">Tao Du</a>
+<h3> </center>
+  <a href="https://openreview.net/profile?id=~Siyuan_Zhou2">Siyuan Zhou</a> <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a> <a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a> <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>
+<center> <h3>
+
+<h3> </center>
   
-[Zhiao Huang](https://sites.google.com/view/zhiao-huang), [Yuanming Hu](https://yuanming.taichi.graphics/), [Tao Du](https://people.csail.mit.edu/taodu/), [Siyuan Zhou](https://openreview.net/profile?id=~Siyuan_Zhou2), [Hao Su](https://cseweb.ucsd.edu/~haosu/), [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/) 
 ## Abstract
 
 ![Alt Text](intro.jpg)
