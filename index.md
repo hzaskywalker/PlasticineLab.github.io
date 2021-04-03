@@ -59,7 +59,7 @@ Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chua
 ## Related Publications
 **A moving least squares material point method with displacement discontinuity and two-way rigid body coupling**\
 [Yuanming Hu](https://yuanming.taichi.graphics/), [Yu Fang](http://squarefk.com/), [Ziheng Ge](https://www.math.ucla.edu/~zihengge/), [Ziyin Qu](https://www.seas.upenn.edu/~ziyinq/), [Yixin Zhu](https://yzhu.io/), [Andre Pradhana](https://www.linkedin.com/in/andre-pradhana-93313428/), and [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/)\
-ACM Transactions on Graphics (TOG), July 2018
+SIGGRAPH 2018
 
 **Chainqueen: A real-time differentiable physical simulator for soft robotics**\
 [Yuanming Hu](https://yuanming.taichi.graphics/), [Jiancheng Liu](https://scholar.google.com/citations?user=ReWNzl4AAAAJ&hl=en), [Andrew Spielberg](http://www.andrewspielberg.com/), [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html), [William T Freeman](https://billf.mit.edu/), [Jiajun Wu](https://jiajunwu.com/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech)\
