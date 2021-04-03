@@ -17,9 +17,9 @@ Simulated virtual environments serve as one of the main driving forces behind de
 ## Quantitative Results
 
 
-![Alt Text](iou-v3.jpg)
+![Alt Text](iou-v3.png)
 
-![Alt Text](fig-v3.jpg)
+![Alt Text](fig-v3.png)
 
 
 ## Qualitative Results
