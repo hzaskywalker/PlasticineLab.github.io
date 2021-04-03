@@ -56,9 +56,9 @@ Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chua
 ACM Transactions on Graphics (TOG)
 
 **Chainqueen: A real-time differentiable physical simulator for soft robotics**\
-[Yuanming Hu](https://yuanming.taichi.graphics/), Jiancheng Liu, Andrew Spielberg, Joshua B Tenenbaum, William T Freeman, Jiajun Wu, Daniela Rus, and Wojciech Matusik
+[Yuanming Hu](https://yuanming.taichi.graphics/), [Jiancheng Liu](https://scholar.google.com/citations?user=ReWNzl4AAAAJ&hl=en), [Andrew Spielberg](http://www.andrewspielberg.com/), [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html), [William T Freeman](https://billf.mit.edu/), [Jiajun Wu](https://jiajunwu.com/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech)\
 In 2019 International Conference on Robotics and Automation (ICRA)
 
 **Difftaichi: Differentiable programming for physical simulation**
-Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, and Fredo Durand
+[Yuanming Hu](https://yuanming.taichi.graphics/), [Luke Anderson](https://people.csail.mit.edu/lukea/), [Tzu-Mao Li](https://people.csail.mit.edu/tzumao/), Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, and Fredo Durand
 ICLR, 2020.
