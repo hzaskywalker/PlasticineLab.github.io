@@ -6,38 +6,43 @@
 
 Simulated virtual environments serve as one of the main driving forces behind developing and evaluating skill learning algorithms. However, existing environments typically only simulate rigid body physics. Additionally, the simulation process usually does not provide gradients that might be useful for planning and control optimizations. We introduce a new differentiable physics benchmark called PasticineLab, which includes a diverse collection of soft body manipulation tasks. In each task, the agent uses manipulators to deform the plasticine into a desired configuration. The underlying physics engine supports differentiable elastic and plastic deformation using the DiffTaichi system, posing many underexplored challenges to robotic agents. We evaluate several existing RL methods and gradient-based methods on this benchmark. Experimental results suggest that 1) RL-based approaches struggle to solve most of the tasks efficiently; 2) gradient based approaches, by optimizing open-loop control sequences with the built-in differentiable physics engine, can rapidly find a solution within tens of iterations, but still fall short on multi-stage tasks that require long-term planning. We expect that PlasticineLab will encourage the development of novel algorithms that combine differentiable physics and model-based RL for more complex physics-based skill learning tasks. PlasticineLab will be made publicly available. 
 
-![Alt Text](https://hzaskywalker.github.io/PlasticineLab.github.io/Writer3D-v1.gif)
 
 
+![Alt Text]()
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Examples
 
-```markdown
-Syntax highlighted code block
+### Move
+![Alt Text](Move3D-v1.gif)
 
-# Header 1
-## Header 2
-### Header 3
+### TripleMove
+![Alt Text](TripleMove3D-v1.gif)
 
-- Bulleted
-- List
+### Rope
+![Alt Text](Rope3D-v1.gif)
 
-1. Numbered
-2. List
+### Writer
+![Alt Text](Writer3D-v1.gif)
 
-**Bold** and _Italic_ and `Code` text
+### Chopsticks
+![Alt Text](Chopsticks3D-v1.gif)
 
-[Link](url) and ![Image](src)
-```
+### Torus
+![Alt Text](Torus3D-v1.gif)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Pinch
+![Alt Text](Pinch3D-v1.gif)
 
-### Jekyll Themes
+### Table
+![Alt Text](Table3D-v1.gif)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hzaskywalker/hzaskywalker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Assembly
+![Alt Text](Assembly3D-v1.gif)
 
-### Support or Contact
+### RollingPin
+![Alt Text](RollingPin3D-v1.gif)
+
+## Related Papers
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
