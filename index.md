@@ -1,7 +1,7 @@
-# PlasticineLab: A Soft-Body Manipulation Benchmark with Differential Physics
+<center># PlasticineLab: A Soft-Body Manipulation Benchmark with Differential Physics
 
 [Zhiao Huang](https://sites.google.com/view/zhiao-huang), [Yuanming Hu](https://yuanming.taichi.graphics/), [Tao Du](https://people.csail.mit.edu/taodu/), [Siyuan Zhou](https://openreview.net/profile?id=~Siyuan_Zhou2), [Hao Su](https://cseweb.ucsd.edu/~haosu/), [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
-
+</center>
 ## Abstract
 
 ![Alt Text](intro.jpg)
