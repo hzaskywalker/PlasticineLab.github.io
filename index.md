@@ -46,16 +46,16 @@ Simulated virtual environments serve as one of the main driving forces behind de
 
 ## Paper
 [PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics](https://openreview.net/forum?id=xCcdBRQEDW)\
-Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chuang Gan
-[[Paper](https://openreview.net/pdf?id=xCcdBRQEDW)][[Code](https://github.com/hzaskywalker/PlasticineLab)][[Bibtex](plb.bib)]\
+Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chuang Gan\
+[[Paper](https://openreview.net/pdf?id=xCcdBRQEDW)][[Code](https://github.com/hzaskywalker/PlasticineLab)][[Bibtex](plb.bib)]
 
 
 ## Related Publications
-**A moving least squares material point method with displacement discontinuity and two-way rigid body coupling**
-[Yuanming Hu](https://yuanming.taichi.graphics/), [Yu Fang](http://squarefk.com/), [Ziheng Ge](https://www.math.ucla.edu/~zihengge/), [Ziyin Qu](https://www.seas.upenn.edu/~ziyinq/), [Yixin Zhu](https://yzhu.io/), [Andre Pradhana](https://www.linkedin.com/in/andre-pradhana-93313428/), and [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/)
+**A moving least squares material point method with displacement discontinuity and two-way rigid body coupling**\
+[Yuanming Hu](https://yuanming.taichi.graphics/), [Yu Fang](http://squarefk.com/), [Ziheng Ge](https://www.math.ucla.edu/~zihengge/), [Ziyin Qu](https://www.seas.upenn.edu/~ziyinq/), [Yixin Zhu](https://yzhu.io/), [Andre Pradhana](https://www.linkedin.com/in/andre-pradhana-93313428/), and [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/)\
 ACM Transactions on Graphics (TOG)
 
-**Chainqueen: A real-time differentiable physical simulator for soft robotics**
+**Chainqueen: A real-time differentiable physical simulator for soft robotics**\
 [Yuanming Hu](https://yuanming.taichi.graphics/), Jiancheng Liu, Andrew Spielberg, Joshua B Tenenbaum, William T Freeman, Jiajun Wu, Daniela Rus, and Wojciech Matusik
 In 2019 International Conference on Robotics and Automation (ICRA)
 
