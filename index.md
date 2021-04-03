@@ -14,13 +14,13 @@ Simulated virtual environments serve as one of the main driving forces behind de
 ## Examples
 
 ### Move
-![Alt Text](Move-v1.gif)
+![Alt Text](Move3D-v1.gif)
 
 ### TripleMove
-![Alt Text](TripleMove-v1.gif)
+![Alt Text](TripleMove3D-v1.gif)
 
 ### Rope
-![Alt Text](Rope-v1.gif)
+![Alt Text](Rope3D-v1.gif)
 
 ### Writer
 ![Alt Text](Writer3D-v1.gif)
