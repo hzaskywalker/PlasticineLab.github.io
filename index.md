@@ -45,9 +45,9 @@ Simulated virtual environments serve as one of the main driving forces behind de
 ![Alt Text](Rollingbin3D-v1.gif)
 
 ## Paper
-[PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics](https://openreview.net/forum?id=xCcdBRQEDW) 
+[PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics](https://openreview.net/forum?id=xCcdBRQEDW)\
 Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chuang Gan
-[[Paper](https://openreview.net/pdf?id=xCcdBRQEDW)][[Code](https://github.com/hzaskywalker/PlasticineLab)][[Bibtex](plb.bib)]
+[[Paper](https://openreview.net/pdf?id=xCcdBRQEDW)][[Code](https://github.com/hzaskywalker/PlasticineLab)][[Bibtex](plb.bib)]\
 
 
 ## Related Publications
