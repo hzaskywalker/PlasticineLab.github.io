@@ -34,17 +34,15 @@ Simulated virtual environments serve as one of the main driving forces behind de
 ![Alt Text](Torus3D-v1.gif)
 
 ### Pinch
-![Alt Text](Pinch3D-v1.gif)
+![Alt Text](Pinch3D-v2.gif)
 
 ### Table
-![Alt Text](Table3D-v1.gif)
+![Alt Text](Table3D-v2.gif)
 
 ### Assembly
 ![Alt Text](Assembly3D-v1.gif)
 
 ### RollingPin
-![Alt Text](RollingPin3D-v1.gif)
+![Alt Text](Rollingbin3D-v1.gif)
 
 ## Related Papers
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
