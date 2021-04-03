@@ -1,12 +1,8 @@
 <center> <h1>PlasticineLab: A Soft-Body Manipulation Benchmark with Differential Physics</h1></center>
 
-<center> <h3>
-  <a href="https://sites.google.com/view/zhiao-huang">Zhiao Huang</a> <a href="https://yuanming.taichi.graphics/">Yuanming Hu</a> <a href="https://people.csail.mit.edu/taodu/">Tao Du</a>
-<h3> </center>
+<center> <h3><a href="https://sites.google.com/view/zhiao-huang">Zhiao Huang</a> <a href="https://yuanming.taichi.graphics/">Yuanming Hu</a> <a href="https://people.csail.mit.edu/taodu/">Tao Du</a> <h3> </center>
   
-<center> <h3>
-  <a href="https://openreview.net/profile?id=~Siyuan_Zhou2">Siyuan Zhou</a> <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a> <a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a> <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>
-<h3> </center>
+<center> <h3><a href="https://openreview.net/profile?id=~Siyuan_Zhou2">Siyuan Zhou</a> <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a> <a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a> <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a> <h3> </center>
   
 ## Abstract
 
