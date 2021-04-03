@@ -16,9 +16,10 @@ Simulated virtual environments serve as one of the main driving forces behind de
 
 ## Quantitative Results
 
-
+The final normalized incremental IoU score achieved by RL methods within 10^4 epochs. Scores lower than 0 are clamped. The dashed orange line indicates the theoretical upper limit.
 ![Alt Text](iou-v3.png)
 
+Rewards and their variances in each task w.r.t. the number of episodes spent on training. We clamp the reward to be greater than 0 for a better illustration.
 ![Alt Text](fig-v3.png)
 
 
