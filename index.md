@@ -59,6 +59,6 @@ ACM Transactions on Graphics (TOG)
 [Yuanming Hu](https://yuanming.taichi.graphics/), [Jiancheng Liu](https://scholar.google.com/citations?user=ReWNzl4AAAAJ&hl=en), [Andrew Spielberg](http://www.andrewspielberg.com/), [Joshua B. Tenenbaum](http://web.mit.edu/cocosci/josh.html), [William T Freeman](https://billf.mit.edu/), [Jiajun Wu](https://jiajunwu.com/), [Daniela Rus](http://danielarus.csail.mit.edu/), and [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech)\
 In 2019 International Conference on Robotics and Automation (ICRA)
 
-**Difftaichi: Differentiable programming for physical simulation**
-[Yuanming Hu](https://yuanming.taichi.graphics/), [Luke Anderson](https://people.csail.mit.edu/lukea/), [Tzu-Mao Li](https://people.csail.mit.edu/tzumao/), Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, and Fredo Durand
+**Difftaichi: Differentiable programming for physical simulation**\
+[Yuanming Hu](https://yuanming.taichi.graphics/), [Luke Anderson](https://people.csail.mit.edu/lukea/), [Tzu-Mao Li](https://people.csail.mit.edu/tzumao/), [Qi Sun](https://qisun.me/), [Nathan Carr](https://research.adobe.com/person/nathan-carr/), [Jonathan Ragan-Kelley](https://people.eecs.berkeley.edu/~jrk/), and [Fredo Durand](http://people.csail.mit.edu/fredo/)\
 ICLR, 2020.
