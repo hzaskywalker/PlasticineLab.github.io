@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 <center> <h1>PlasticineLab: A Soft-Body Manipulation Benchmark with Differential Physics</h1></center>
 
 <center> <h3><a href="https://sites.google.com/view/zhiao-huang">Zhiao Huang</a> &nbsp;&nbsp; <a href="https://yuanming.taichi.graphics/">Yuanming Hu  </a>&nbsp;&nbsp;  <a href="https://people.csail.mit.edu/taodu/">Tao Du</a> </h3> </center>
